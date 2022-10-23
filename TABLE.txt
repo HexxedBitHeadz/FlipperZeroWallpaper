@@ -7,17 +7,17 @@ CyberPunk8_128x64	:	Lucy and David tunnel ride.       DONE
 CyberPunk9_128x64	:	Rebecca dual wielding rifles.     DONE
 CyberPunk10_128x64	:	Rebecca 1 big gun.              DONE
 CyberPunk11_128x64	:	David glitchy / psycho.         NOT WORKING
-CyberPunk12_128x64	:	Rebecca laughing.				        DONE
+CyberPunk12_128x64	:	Rebecca laughing.               DONE
 CyberPunk13_128x64	:	David bloodspots.               NOT WORKING
-CyberPunk14_128x64	:	David and Lucy running.			    DONE
-CyberPunk15_128x64	:	Three masked men.				        DONE
+CyberPunk14_128x64	:	David and Lucy running.         DONE
+CyberPunk15_128x64	:	Three masked men.               DONE
 CyberPunk16_128x64	:	Lucy monowire attack.           NOT WORKING
 CyberPunk17_128x64	:	Lucy open hand invite on moon.  NOT WORKING
-CyberPunk19_128x64	:	David on city bus.				      DONE
-CyberPunk20_128x64	:	Ripperdoc thumbs up.			      DONE
-CyberPunk21_128x64	:	Maine with shades.				      DONE
-CyberPunk22_128x64	:	Rebecca dual wielding pistols.	DONE
-CyberPunk23_128x64	:	Arm blaster desctruction.		    DONE 
-CyberPunk24_128x64	:	David face glitchy.				      DONE
-CyberPunk28_128x64	:	David arm blaster.				      DONE
-CyberPunk29_128x64	:	Pilar middle finger.			      DONE
+CyberPunk19_128x64	:	David on city bus.              DONE
+CyberPunk20_128x64	:	Ripperdoc thumbs up.            DONE
+CyberPunk21_128x64	:	Maine with shades.              DONE
+CyberPunk22_128x64	:	Rebecca dual wielding pistols.  DONE
+CyberPunk23_128x64	:	Arm blaster desctruction.       DONE 
+CyberPunk24_128x64	:	David face glitchy.             DONE
+CyberPunk28_128x64	:	David arm blaster.              DONE
+CyberPunk29_128x64	:	Pilar middle finger.            DONE
