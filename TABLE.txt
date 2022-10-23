@@ -1,11 +1,11 @@
 CyberPunk1_128x64	:	Kiwi upside down.                 NOT WORKING
-CyberPunk2_128x64	:	David and Lucy on moon.			      DONE
-CyberPunk3_128x64	:	David and Lucy driving.			      DONE
-CyberPunk5_128x64	:	Lucy tunnel ride.				          DONE
+CyberPunk2_128x64	:	David and Lucy on moon.           DONE
+CyberPunk3_128x64	:	David and Lucy driving.           DONE
+CyberPunk5_128x64	:	Lucy tunnel ride.                 DONE
 CyberPunk7_128x64	:	Lucy smoking.                     NOT WORKING
-CyberPunk8_128x64	:	Lucy and David tunnel ride.		    DONE
-CyberPunk9_128x64	:	Rebecca dual wielding rifles.	    DONE
-CyberPunk10_128x64	:	Rebecca 1 big gun.				      DONE
+CyberPunk8_128x64	:	Lucy and David tunnel ride.       DONE
+CyberPunk9_128x64	:	Rebecca dual wielding rifles.     DONE
+CyberPunk10_128x64	:	Rebecca 1 big gun.              DONE
 CyberPunk11_128x64	:	David glitchy / psycho.         NOT WORKING
 CyberPunk12_128x64	:	Rebecca laughing.				        DONE
 CyberPunk13_128x64	:	David bloodspots.               NOT WORKING
