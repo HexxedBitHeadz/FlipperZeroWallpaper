@@ -7,7 +7,7 @@ Copy manifest entries into your exisitng manifest file.
 
 NOTE:  There are specific ones that do not seem to work yet, I am continueing to look into. All work fine, except the following as of now:
 
-Cyberpunk14_128x64
+Cyberpunk14_128x64\
 Cyberpunk23_128x64
 
 
