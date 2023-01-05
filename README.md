@@ -1,15 +1,18 @@
 # FlipperZeroWallpaper
 Wallpapers for Flipper Zero
 
-Work in progress, working on CyberPunk Edgerunner wallpaper for Flipper Zero.
+Jan 5th update:  HAPPY NEW YEARS Flipper peeps!!
+
+All wallpapers are now working!
+Reworked almost all the previous meta files, adjusting active / passive frames, cycles and frame rates.  Some are the same as before, some look better, and some turned out way better.  
+
+Added 3 new wallpapers:
+CyberPunk23_128x64
+CyberPunk24_128x64
+CyberPunkLogo_128x64
 
 Copy manifest entries into your exisitng manifest file.
 
-NOTE:  There are specific ones that do not seem to work yet, I am continueing to look into. All work fine, except the following as of now:
+Moving forward, I plan to slowely add more wallpapers, while looking to produce finer quality results.  I a looking into branching out of CyberPunk 2077 specifically, but will stay in the CyberPunk realm all together :)
 
-Cyberpunk14_128x64\
-Cyberpunk23_128x64
-
-
-Still need to go in and tweak most of the active / passive frames.  Some look great as of now, some don't.
-
+Enjoy!
