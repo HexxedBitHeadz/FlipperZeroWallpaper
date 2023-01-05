@@ -6,10 +6,10 @@ Wallpapers for Flipper Zero
 All wallpapers are now working!
 Reworked almost all the previous meta files, adjusting active / passive frames, cycles and frame rates.  Some are the same as before, some look better, and some turned out way better.  
 
-Added 3 new wallpapers:
-CyberPunk23_128x64
-CyberPunk24_128x64
-CyberPunkLogo_128x64
+Added 3 new wallpapers:  
+CyberPunk23_128x64  
+CyberPunk24_128x64  
+CyberPunkLogo_128x64  
 
 Copy manifest entries into your exisitng manifest file.
 
