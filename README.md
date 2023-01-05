@@ -22,3 +22,5 @@ Enjoy!
 1. Download the files, the BMs need to go into your SD Card > dolphin folder.
 2. Open the manifest file here, and combine it with your existing manifest file in SD Card/
 3. Reboot your flipper, cycle through to view wallpapers.
+
+The PNGs are really not needed, just there for your convenience :) 
