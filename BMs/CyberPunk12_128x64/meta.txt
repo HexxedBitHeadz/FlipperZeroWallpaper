@@ -5,7 +5,7 @@ Width: 128
 Height: 64
 Passive frames: 1
 Active frames: 5
-Frames order: 0 1 2 3 4 5
+Frames order:  0 1 2 3 4 5
 Active cycles: 10
 Frame rate: 3
 Duration: 3600
