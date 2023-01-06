@@ -1,10 +1,10 @@
 # FlipperZeroWallpaper
 Wallpapers for Flipper Zero
 
-## Jan 5th update:  HAPPY NEW YEARS Flipper peeps!!
+## Jan 6th update:  HAPPY NEW YEARS Flipper peeps!!
 
 All wallpapers are now working!
-Reworked almost all the previous meta files, adjusting active / passive frames, cycles and frame rates.  Some are the same as before, some look better, and some turned out way better.  
+Reworked almost all the previous meta files, adjusting active / passive frames, cycles and frame rates.  Some are the same as before, some look better, and some turned out way amazing.  
 
 Added 3 new wallpapers:  
 CyberPunk23_128x64  
