@@ -1,4 +1,3 @@
-CyberPunkLogo_128x64	:	CyberPunk logo.				DONE
 CyberPunk1_128x64		:	Kiwi upside down.				DONE
 CyberPunk2_128x64		:	David and Lucy on moon.			DONE
 CyberPunk3_128x64		:	David and Lucy driving.			DONE
@@ -23,6 +22,6 @@ CyberPunk21_128x64		:	David arm blaster.				DONE
 CyberPunk22_128x64		:	Pilar middle finger.			DONE
 CyberPunk23_128x64		:	David Luci walking on bus.		DONE
 CyberPunk24_128x64		:	David Luci hugging.				DONE
-
+CyberPunkLogo_128x64	:	CyberPunk logo.				DONE
 
 
