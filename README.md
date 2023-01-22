@@ -4,7 +4,7 @@ Wallpapers for Flipper Zero
 ## Jan 22nd update:
 
 No modifications to previous animations.
-Removed PNG folder, not need for animations to work.
+Removed PNG folder, not needed for animations to work.
 
 Added 3 new wallpapers:  
 CyberPunk25_128x64  
