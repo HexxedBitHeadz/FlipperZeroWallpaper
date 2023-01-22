@@ -22,6 +22,9 @@ DONE CyberPunk21_128x64:David arm blaster.
 DONE CyberPunk22_128x64:Pilar middle finger.
 DONE CyberPunk23_128x64:David Luci walking on bus.
 DONE CyberPunk24_128x64:David Luci hugging.
+DONE CyberPunk25_128x64:David glitch in car.
+DONE CyberPunk26_128x64:David Luci kiss.
+DONE CyberPunk27_128x64:Luci lighting cig.
 DONE CyberPunkLogo_128x64:CyberPunk logo.
 
 
