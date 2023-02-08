@@ -21,3 +21,7 @@ Enjoy!
 3. Reboot your flipper, cycle through to view wallpapers.
 
 The PNGs are really not needed, just there for your convenience :) 
+
+
+https://user-images.githubusercontent.com/114350234/217557381-9432c4e6-7847-4e89-884e-25ced4be305a.mp4
+
