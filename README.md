@@ -1,13 +1,13 @@
 # FlipperZeroWallpaper
 Wallpapers for Flipper Zero
 
-## Feb 26th update:
+## Mar 11th update:
 
 No modifications to previous animations.
 
 Added 2 new wallpapers:  
-CyberPunk30_128x64  
-CyberPunk31_128x64  
+CyberPunk32_128x64  
+CyberPunk33_128x64  
 
 
 Copy manifest entries into your exisitng manifest file.
