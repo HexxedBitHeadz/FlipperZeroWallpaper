@@ -190,6 +190,62 @@ Min level: 1
 Max level: 30
 Weight: 10
 
+Name: CyberPunk28_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk29_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk30_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk31_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk32_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk33_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk34_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk35_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
 Name: CyberPunkLogo_128x64
 Min butthurt: 0
 Max butthurt: 5
