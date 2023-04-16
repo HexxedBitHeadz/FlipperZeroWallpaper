@@ -246,6 +246,19 @@ Min level: 1
 Max level: 30
 Weight: 10
 
+Name: CyberPunk36_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
+
+Name: CyberPunk37_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 10
 Name: CyberPunkLogo_128x64
 Min butthurt: 0
 Max butthurt: 5
