@@ -1,11 +1,11 @@
 # FlipperZeroWallpaper
-Wallpapers for Flipper Zero
+Wallpapers for Flipper Zero.  As of Sept 10th, 2023, I am no longer supporting this project.  It has been great fun to be a part of the flipper zero community during this adventure, I am moving on to new projects that require my attention.  Thank you for your support! :)
 
-## Aug 25th update:
+## Sept 10th update:
 No modifications to previous animations.
 
 Added new animation:  
-CyberPunk45_128x64
+CyberPunk45_128x64 - CyberPunk57_128x64
 
 Copy manifest entries into your exisitng manifest file.
 
